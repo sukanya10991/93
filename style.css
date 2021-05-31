@@ -1,0 +1,59 @@
+ body{
+  height: 100%;
+  margin: 0;
+  background-image: linear-gradient(to right top, #33a0f1 0% , seagreen 100%);
+ }
+.login_div{    
+    background:none;border-radius: 25px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: antiquewhite;
+    float: none;
+    background-image: linear-gradient(to right top, #33a0f1 0% , seagreen 100%);
+    background-position: center;
+    background-size: cover;
+}
+#icon{
+    width:75px !important;
+    margin-top: 25px;
+}
+.logo{
+    width:200px !important;
+}
+#b{
+    background:none;border-radius: 25px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: antiquewhite;
+    float: none;
+    width:24%; 
+    background-image: linear-gradient(to right top, rgb(36, 177, 177) 0% , seagreen 100%);  
+}
+h1{
+    color:white;
+}
+h3{
+    color:white;
+}
+h4{
+    color:white;
+}
+p{
+    color:white;
+}
+label{
+    color:white;
+}
+h2{
+    color:white;
+}
+#login_button{
+    width: 20%;
+    border-radius: 15px;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: antiquewhite;
+    float: none;
+    background-color: rgb(53, 160, 187);
+}
